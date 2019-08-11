@@ -1,0 +1,6 @@
+{
+    "Url": "https://www.bunnings.com.au/search/products?q=paint&redirectFrom=Any",
+    "Reportpath": ".//test-output//AddProductReport.html",
+    "ProductName": "British Paints Clean & Protect Matt Black Interior Paint - 10L"
+        
+}

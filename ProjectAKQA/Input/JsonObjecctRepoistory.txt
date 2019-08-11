@@ -1,0 +1,8 @@
+{
+    "ProductTitle_Link_Xpath": "//div[@alt='KeyValue']",
+    "ProductName_Text_Xpath": "//*[@class='page-title']//h1",
+    "AddWishList_Button_Xpath": "//span[text()='Add to Wish List']",
+    "AddedtoWishlist_Text_Xpath":"//span[text()='Added']",
+    "AddWishList_Link_Xpath": "//*[@title='Wish List']",
+    "GetProduct_Text_Xpath":"//*[@class='table-product-list table-cart-items']//a[2]"
+}
